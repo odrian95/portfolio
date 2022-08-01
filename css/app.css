@@ -9,7 +9,9 @@ html, body {
   height: 100%;
   font-family: "Inconsolata", monospace !important;
   background: #080808 !important;
-  color: #fff !important; }
+  color: #fff !important; 
+  overflow-x: hidden; 
+}
 
 .whitespace {
   width: 100%;
